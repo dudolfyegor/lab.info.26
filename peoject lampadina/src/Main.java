@@ -2,7 +2,9 @@ public class Main {
 
     public static void main(String[] args) {
 
-        System.out.printf("Hello and world!");
+         Lampadine l;
+         l = new Lampadine();
+         l.potenza = 39;
 
 
     }
